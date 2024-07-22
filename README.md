@@ -1,2 +1,2 @@
 # aiseeker
-aiseek repo
+aiseek repo for git commands demonstration
